@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-plugins:
-  - jekyll-redirect-from
 title: Leiden ITP
 tagline: tagline
 description: description
 author: Josh Hug
-#baseurl: '/calendar' # the subpath of your site, e.g. /blog
+#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 url: 'https://joshhug.github.io/leidenITP2/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -30,9 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Brightspace:
-    - 'https://brightspace.universiteitleiden.nl/d2l/home/240322'
-
+  Kevin Lin:
+    - 'https://kevinl.info'
+  Just the Class on GitHub:
+    - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data

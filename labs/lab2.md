@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Lab 2
-description: &desc Lab 2
+description: &desc Lab 2.
 summary: *desc
 has_children: true
 has_toc: true
@@ -17,6 +17,8 @@ permalink: /:path/
 
 1. TOC
 {:toc}
+
+Welcome to week 2! We hope you like the new look of the lab.
 
 Reminder before we get started: If you have any problems or additional questions, feel free to post them on [Brightspace](https://brightspace.universiteitleiden.nl/d2l/le/240322/discussions/List). Questions can be about anything, not just the contents of this lab page.
 
