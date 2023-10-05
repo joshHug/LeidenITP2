@@ -37,4 +37,4 @@ title: Introduction to Programming
 : **Lab**{: .label .label-purple }[Getting Started in Python](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2619461)
 
 6 Sep
-: [Welcome to ITP and Python](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2616960)
+: [Welcome to ITP and Python](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2616960
