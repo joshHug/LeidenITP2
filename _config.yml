@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: title
+title: Leiden ITP
 tagline: tagline
 description: description
 author: Josh Hug
@@ -36,35 +36,15 @@ footer_content:
 
 # Collections for website data
 collections:
-  staffers:
   modules:
-  schedules:
-  announcements:
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      height: 300
-      subpath: '/assets/images/'
-      width: 300
   - scope:
       path: ''
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+
 
 compress_html:
   clippings: all
