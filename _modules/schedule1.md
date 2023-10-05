@@ -17,14 +17,14 @@ title: Introduction to Java
 
 20 Sep
 : [Lists, Strings, Dictionaries, and Loops](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2639539)
-  : [bool.py](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2632195), [strings.py](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2632197), [lists.py](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2632196)
+  : [lec3.py](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2643488)
 
 22 Sep
 : **Lab**{: .label .label-purple }[Strings and Lists]({{ site.baseurl }}{% link labs/lab3.md %})
 
 27 Sep
 : [Loops and Debugging](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2647943)
-  : [lec3.py](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2643488)
+  : [lec4.py](https://brightspace.universiteitleiden.nl/d2l/le/lessons/240322/topics/2648330)
 
 29 Sep
 : **Lab**{: .label .label-purple }[Sequences and Loops]({{ site.baseurl }}{% link labs/lab4.md %})
