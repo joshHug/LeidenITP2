@@ -17,7 +17,7 @@ title: Leiden ITP
 tagline: tagline
 description: description
 author: Josh Hug
-#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '/calendar' # the subpath of your site, e.g. /blog
 url: 'https://joshhug.github.io/leidenITP2/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
